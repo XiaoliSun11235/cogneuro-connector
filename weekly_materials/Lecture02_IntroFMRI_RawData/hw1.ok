@@ -2,7 +2,7 @@
   "name": "Lab 2: Intro to fMRI",
   "endpoint": "cal/data8cogneuroconnector/fa17/HW1",
   "src": [
-    "lab_solution.ipynb"
+    "hw1.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
